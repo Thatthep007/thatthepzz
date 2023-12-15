@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "roiet",
+			"path": "."
+		},
+		{
+			"name": "week1",
+			"path": "../gaym/picforpoysian/week1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "roiet"
+	}
+}

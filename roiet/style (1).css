@@ -1,0 +1,410 @@
+/* Navbar container */
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+/* Navbar container */
+
+#week1{
+  margin-top: 10px;
+  background-color: rgb(255, 255, 255);
+}
+.image-row {
+  display: flex;
+  flex-wrap: nowrap; /* Ensures that items are placed in one line */
+  overflow-x: auto; /* Allow horizontal scrolling if the images exceed the width of the container */
+}
+
+/* Add this style to remove margins between image divs */
+.w3-row-padding.image-row .w3-container {
+  margin-bottom: 0;
+}
+#week2{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('kmuss.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  .paragraph{
+    margin-top:-150px;
+    color: #ddd;
+  }
+  .box{
+    height: 200px;
+    width: 200px;
+    display: inline-flex;
+    margin: 20px;
+    margin-top: -110px;
+  }
+  h1{
+    color: #ddd;
+  }
+  h3{
+    color: #ddd;
+  }
+  p{
+    color: #ccc;
+  }
+}
+#week2.pages{
+  padding-bottom: 50px;
+}
+#week4{
+  background-color:#EADBC8;
+ .paragraph{
+  margin-top: 50px
+ }
+ .box{
+  height: 300px;
+    width: 300px;
+    margin-top: -20px;
+  }
+}
+#week4.pages{
+  padding-bottom: 60%;
+}
+#week5{
+  background-color: #102C57;
+  color: #ccc;
+  .paragraph{
+    margin-top: -20px;
+  }
+}
+#week3{
+  background-color: rgb(254, 250, 250);
+  .box{
+    height: 300px;
+    width: 300px;
+    display: inline-flex;
+    margin: 20px;
+    margin-top: -20px;
+  }
+  color: #0b0a0a;
+}
+#week3.pages{
+  padding-bottom: 70%;
+}
+#week1.pages{
+  height: 100%
+}
+#week6{
+  background-color: #F8F0E5;
+  .paragraph{
+    margin-top: -10px;
+  }
+  .box{
+    margin-top: -10px;
+    height: 300px;
+    width: 300px;
+  }
+}
+#week6.pages{
+  padding-bottom: 50%;
+}
+#week5{
+  h3{
+    color: #ccc;
+  }
+  .box{
+    height: 300px;
+    width: 300px;
+  }
+}
+#week5.pages{
+  padding-bottom: 60%;
+}
+#week7{
+  background-color: #f0b665;
+  .paragraph{
+    margin-top:-100px;
+  }
+  .box{
+    margin-top: -60px;
+    height: 300px;
+    width: 300px;
+  }
+}
+#week7.pages{
+  padding-bottom: 20%;
+}
+#week8{
+  background-color: rgb(255, 255, 255);
+  .paragraph{
+    margin-top: -10px;
+  }
+  .pages{
+    height: 200%;
+  }
+  .box{
+    margin-top: -10px;
+    width: 300px;
+    height: 300px;
+  }
+}
+#week8.pages{
+  padding-bottom: 60%;
+}
+#week9{
+  background-color: beige;
+  .paragraph{
+    margin-top: -100px;
+  }
+  .box{
+    width: 300px;
+    height: 300px;
+  }
+}
+
+#week10{
+  color: #ffffff;
+  .paragraph{
+    margin-top: -100px;
+  }
+  .box{
+    width: 300px;
+    height: 300px;
+  }
+  background-color: #102C57;
+  h3{
+    color: #ccc;
+  }
+}
+#week11{
+  .paragraph{
+    margin-top: -100px;
+  }
+  .box{
+    width: 300px;
+    height: 300px;
+  }
+  background-color: #ccc; 
+}
+#week12{
+  .paragraph{
+    margin-top: -100px;
+  }
+  .box{
+    width: 300px;
+    height: 300px;
+  }
+  background-color: antiquewhite;
+}
+#week13{
+  .paragraph{
+    margin-top: -100px;
+  }
+  .box{
+    width: 300px;
+    height: 300px;
+  }
+  background-color: #c7cee9;
+}
+#week14{
+  .paragraph{
+    margin-top: -10px;
+  }
+  background-color: #ffffff;
+}
+#week14.pages{
+  height: 400px;
+}
+#week15{
+  background-color: #f0b665;
+  .paragraph{
+    margin-top: -100px;
+  }
+  .box{
+    width: 300px;
+    height: 300px;
+  }
+}
+#week16.pages{
+  height: 350px;
+}
+#start{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('kmuss.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.header p{
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    left: 280px;
+}
+
+.container{
+    background-color: white;
+}
+
+.contents{
+    width: 100%;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    margin: 20px;
+    max-width: 70%;
+    font-size: 120%;
+}
+
+
+.quote p {
+    padding-left: 10px; /* Adjust the padding as needed */
+    display: flex;
+    border-left: 3px solid black;
+    justify-content: center;
+    margin: 100px;
+}
+
+.pages{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.container2{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+.container2 p{
+    position: absolute;
+    left: 80px;
+    top: 70px;
+    font-size: 20px;
+}
+.container2 h1{
+    position: absolute;
+    border-bottom: 3px solid black;
+    font-size: 45px;
+    top: 15px;
+}
+
+.paragraph {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  */
+    text-align: center; /* Center the text within the .paragraph div */
+    padding: 20px; /* Add padding as needed */
+    position: relative;
+    top: 30%;
+    left: 25%;
+    max-width: 50%;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 40%;
+    position: relative;
+    width: 100%;
+}
+.box{
+    height: 80px;
+    width: 80px;
+    display: inline-flex;
+    margin: 20px;
+}
+
+.pages {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+  }
+#week1{
+  .box{
+    height: 200px;
+    width: 200px;
+    display: inline-flex;
+    margin: 20px;
+  }
+}
+
+  .container2 {
+    position: relative;
+    top: 50px;
+    left: 100px;
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .container2 div {
+    margin-right: 20px;
+  }
+
+  .container2 p {
+    font-size: 20px;
+  }
+
+  .container2 h1 {
+    border-bottom: 3px solid black;
+    font-size: 45px;
+  }
+
+  .container2 h3 {
+    font-size: 25px;
+  }
+
+  .paragraph {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    top: 30%;
+    left: 25%;
+    max-width: 50%;
+  }
+
+  .box-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 40%;
+    max-width: 100%; /* Ensure responsiveness */
+  }
+
+  .box {
+    padding: 10px;
+    margin: 20px;
+  }
+
+  .box img {
+    max-width: 100%; /* Make images responsive */
+    max-height: 100%;
+  }
+
+  .topic-container {
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 15%;
+    /* position: absolute;
+    top: 15%; */
+  }
+
+  /* Style for .topic div */
+  .topic {
+    font-size: 18px;
+    color: #333; /* Adjust the color as needed */
+  }

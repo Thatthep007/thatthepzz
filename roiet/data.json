@@ -1,0 +1,141 @@
+[
+  {
+    "weekNumber": "1",
+    "date": "10/08/2023",
+    "Topic": "What’s Engineering Do?",
+    "content": "แนะนำคอร์ส และยกตัวอย่างงานด้านต่างๆที่วิศกรทำ\n\n-แนะนำรายวิชา CPE101 **Engineering Exploration**\n\nเปิดโลกให้กับนักศึกษาวิศวกรรมคอมพิวเตอร์ปีที่ 1 ให้ได้เข้าสู่โลกของวิศวกร ได้รู้จักกับคำว่า”วิศวกร” และเตรียมพร้อมกับการเป็นวิศวกร\n\n-House Keeper Robot Project (Midterm project)\n\nเกริ่นถึงการทำ Midterm project ว่าเป็นการทำหุ่นยนต์เก็บลูกบอลโดยใช้ micro:bit และ Huskeylens โดยมีการใช้ AI เข้ามาช่วย\n\n-**The Problem-Solving Process in Engineering**\n\nจับกลุ่ม 5-7 คนเพื่อทำการแก้ไขปัญหาที่เกิดขึ้นโดยใช้หลักการทางวิศวกรรม",
+    "picture1": "1.jpg",
+    "picture2": "2.jpg"
+  },
+  {
+    "weekNumber": "2",
+    "date": "24/08/2023",
+    "Topic": "Working Foundation.",
+    "content": "เรียนรู้การเขียน action plan ซึ่งประกอบไปด้วย การกำหนดเป้าหมาย การประเมิณความเสี่ยง และการตรวจสอบความคืบหน้าของการดำเนินงาน\n\n-The Planning Process\n\nเรียนรู้ขั้นตอนในการวางแผนสำหรับการทำโปรเจ็คในอนาคต\n\n-Affiliate Marketing\n\nได้เรียนรู้ความหมาย,องค์ประกอบ, ข้อดี, วิธีการทำ Affiliate Marketing และได้ลองออกแบบ prototype Affiliate Marketing จาก Assignment ในคลาสเรียน\n\n-Goals & Follow up\n\nเรียนรู้ขั้นตอนและวิธีการตั้งเป้าหมายเพื่อให้ประสบความสำเร็จโดยวิธีการ S.M.A.R.T.E.R system\n\n-Consensus Decision\n\nเรียนรู้ถึงความสำคัญและความหมายของการ Consensus Decision และมีการ Guidelines การ Consensus Decision",
+    "picture1": "2.1.jpg",
+    "picture2": "2.2.jpg",
+    "picture3": "2.3.jpg"
+  },
+  {
+    "weekNumber": "3",
+    "date": "31/08/2023",
+    "Topic": "Engineer Drawing(2D and 3D)",
+    "content": "# \r\n\rทดลองใช้โปรแกรม AutoCAD ในการเขียน 2D design และใช้โปรแกรม TinkerCAD ในการเขียน 3D design\r\n\r-Introduction to Engineering Drawing\r\n\rเรียนรู้ถึงความหมายและความสำคัญของการเขียนแบบทางวิศวกรรมแบบพื้นฐาน\r\n\r-Engineering Graphics\r\n\r-Model\r\n\r-Technical illustration\r\n\r-Technical sketch\r\n\r-3D Drawing:\r\n\rได้ลองปั้น Model 3D ด้วยโปรแกรม tinkerCAD\r\n\r-2D Drawing:\r\n\rได้ลองเขียนแบบ 2D ด้วยโปรแกรม LibreCAD \r\n\r-Technical Drawing\r\n\rเรียนรู้ถึงเทคนิคที่ใช้ในการเขียนแบบทางวิศวกรรมประกอบไปด้วย\r\n\r-Design Sketches\r\n\r-Layout Drawings\r\n\r-Assembly Drawings\r\n\r-Detail Drawings\r\n\r-How to represent an object\r\n\rได้เรียนรู้การวาดวัตถุในมุมต่างๆ\r\n\r-Perspective\r\n\rเรียนรู้การเขียนแบบจากมุมมองสายตา\r\n\r-Parallel\r\n\r-Isometric\r\n\rเรียนรู้การเขียนแบบที่ใช้มุมเอียง 45 องศา\r\n\r-Oblique\r\n\rเรียนรู้การเขียนแบบที่ใช้มุมเอียง 30 และ 60 องศา\r\n\r-Multiview\r\n\rเรียนรู้มุมมองจากการ top view, side view, front view\r\n\r-Assignment 2D Android Drawing:\r\n\rงานเขียนแบบรูป Android 2D โดยใช้โปรแกรม LibreCAD หรือ AutoCAD \r\n\r-Assignment 3D นกหวีด:\r\n\rงานออกแบบ 3D Model นกหวีดด้วยโปรแกรม TinkerCAD",
+    "picture1": "3.1.jpg",
+    "picture2": "3.2.jpg"
+  },
+  {
+    "weekNumber": "4",
+    "date": "07/09/2023",
+    "Topic": "Basic Embedded Systems",
+    "content": "ได้ทดลองใช้ micro:bit ในการควบคุมหุ่นยนต์ให้เคลื่อนที่ตามโจทย์ของอาจารย์\r\n\r\n-**Introducing Micro:bit**:\r\n\r\nรู้จักกับ Micro:bit, คุณสมบัติทั่วไปของ Micro:bit, Hardware ของ Micro:bit\r\n\r\n-เขียนโปรแกรมควบคุมหุ่นยนต์ด้วย Micro:bit \r\n\r\n-เขียนโปรแกรมให้หุ่นยนต์เคลื่อนที่เป็นสี่เหลี่ยม\r\n\r\n-เขียนโปรแกรมเล่นกับเสียงเพลง\r\n\r\n-เขียนโปรแกรมแสดงผลผ่านจอ\r\n\r\n-Extension for micro:bit\r\n\r\nโหลด Extension ไว้เพื่อเตรียมทำ Midterm โปรเจ็ค House Keeper Robot Project\r\n\r\n-iBit\r\n\r\n-DFRobot_HuskyLens",
+    "picture1": "4.1.jpg",
+    "picture2": "4.2.jpg",
+    "picture3": "4.3.jpg"
+  },
+  {
+    "weekNumber": "5",
+    "date": "21/09/2023",
+    "Topic": "Intelligent Systems",
+    "content": "-ได้ทดลองใช้ Husky lens ในการทำ machine learning  โดยให้ตัวกล้องจับภาพและจำแนกสิ่งของตามที่เราได้ train ไว้\n\n-What is Artificial Intelligence?\n\nรู้จักกับคำว่า “Artificial Intelligence” , ประวัติและวิวัฒนาการของ AI\n\n-What is Machine Learning?\n\nเรียนรู้ถึงความแตกต่างระหว่าง AI กับ Machine Learning และประเภทของ Machine Learning\n\n-Real World Machine Learning\n\nยกตัวอย่าง Machine Learning ที่พบเจอได้ในชีวิตประจำวัน เช่น Netflix suggestion, Space X’s Falcon 9, Tesla’s Full Self-Driving system and chat-GPT.\n\n-Machine Learning Tools\n\nรู้จักกับเครื่องมือที่ใช้เขียน Machine Learning เช่น ภาษา Python, Java, R, Scala และ Library ที่ใช้ในการเขียน Machine Learning เช่น Pandas, Sklearn, Tensorflow \n\n-Machine Learning LAB!\n\nได้ลองลงมือสร้าง AI แยกวัตถุด้วย Teachable Machine และลองทำความรู้จักกับ Huskylens เพื่อแยกสีหรือวัตถุสำหรับใช้ใน Midterm Project",
+    "picture1": "5.1.jpg",
+    "picture2": "5.2.jpg",
+    "picture3": "5.3.jpg"
+   
+  },
+  {
+    "weekNumber": "6",
+    "date": "28/09/2023",
+    "Topic": "TinkerCAD Circuits",
+    "content": "-ใช้ TinkerCAD circuits ในการต่อวงจรแบบง่าย\n-Problem Solving and Decision Making Skills\nเรียนรู้ถึงการแก้ไขปัญหาและการตัดสินใจต่างๆ \n-Analog Circuit \nรู้จักกับวงจรแบบอนาล็อก, การทำงานและความสามารถของวงจรแบบอนาล็อก, ตัวอย่างวงจรแบบอนาล็อก เช่น resistor, capacitors, inductors, operational amplifiers.\n-OHM’s Law\nเรียนรู้กฏของโอห์ม และการนำกฏไปคำนวณ\n-Resistors \nเรียนรู้วิธีอ่านค่าความต้านทานตามแถบสีบนตัวต้านทานและมีแบบฝึกหัดให้ลองทำในห้อง\n-Basic Circuit with Resistors\nเรียนรู้การอ่านวงจรไฟฟ้าอย่างง่ายและได้ลองคำนวนโดยใช้กฏของโอห์ม\n-Capacitors\nรู้จักกับตัวเก็บประจุ, ความสามารถและหน้าที่ของตัวเก็บประจุ\n-Digital Circuit\nรู้จักกับวงจรแบบดิจิตอล, ตรรกศาสตร์ที่ใช้กับวงจรแบบดิจิตอล เช่น AND,OR,XOR,NOT \n-Basic Digital IC logic gate in Chip\nได้ลองคำนวณทางตรรกศาสตร์กับการวงจรแบบดิจิตอลอย่างง่าย\n-Microcontroller",
+    "picture1": "6.1.jpg",
+    "picture2": "6.2.jpg"
+    
+  },
+  {
+    "weekNumber": "7",
+    "date": "05/10/2023",
+    "Topic": "Application Design",
+    "content": "เรียนรู้การออกเเบบ Website เเละการเขียน โดยได้มีการเรียนรูถึง html css เเละ javascript ในระบบพื้นนฐาน ก่อนที่จะให้งานในการทำเว็บ portfolio ของตัวเอง\r\n\r-Introduction to Wep application Development\r\n\rทำความรู้จักกับการพัฒนา Wep application เรียนโครงสร้างของ Wep application, Database, Front End & Back End, Framework\r\n\r-How can we struct a webpage?\r\n\rเรียนรู้การเขียน website โดยใช้ HTML, CSS, Javascript\r\n\r-Basic HTML\r\n\rเรียนรู้โครงสร้างของ HTML เพื่อทำโครงร่าง website\r\n\r-Basic CSS\r\n\rเรียนรู้การทำงานของ CSS เพื่อตกแต่ง website\r\n\r-Basic Javascript for DOM manipulate\r\n\rเรียนรู้การเขียนโปรแกรมภาษา Javascript เพื่อเพิ่มลูกเล่นต่างๆ ให้กับ website\r\n\r-Assignment Portfolio:\r\n\rมอบหมายงานให้ทำ Website Portfolio ของตนเองโดยใช้ HTML,CSS และ Javascript",
+    "picture1": "7.1.jpg",
+    "picture2": "7.2.jpg"
+   
+  },
+  {
+    "weekNumber": "8",
+    "date": "12/10/2023",
+    "Topic": "Game",
+    "content": "เรียนรู้การเขียนเกมพื้นฐานโดยใช้ Unity โดยใช้ Asset เเละ Code ที่ถูกเตรียมไว้เเล้ว\n-Introduction to Game development\n-What is Game\nทำความรู้จักกับเกมว่าเกมคืออะไร, ประเภทของเกมต่างๆ\n-Game engine\nทำความรู้จักกับ Game engine ว่าเป็น Software ที่ใช้พัฒนาเกมและได้รู้จักกับ Game engine ต่างๆ เช่น Unity,Unreal Engine,RPG maker,godot.\n-Unity Tutorial\n-Unity & Unity Hub\nดาวน์โหลดโปรแกรม Unity Hub&Unity มาเพื่อเตรียมสร้างเกม\n-Basic Windows\nเรียนรู้พื้นฐานในการสร้างเกม\n-A little bit of coding\nเขียนโค้ด script เกมด้วยภาษาC#\n-Goose Project Tutorial\n-First Person View\nได้ลองทำระบบเกมแบบ FPS\n-Third Person View\nได้ลองทำระบบเกมแบบ TPS\n-Goose\nลองทำเกมวิ่งหนีห่านโดยใช้ AI navigation\n-Assignment Basic Game\nมอบหมายงานสร้างเกมแบบง่ายๆ โดยใช้ AI navigation",
+    "picture1": "8.1.jpg",
+    "picture2": "8.2.jpg"
+  },
+  {
+    "weekNumber": "9",
+    "date": "19/10/2023",
+    "Topic": "The First Project Competition",
+    "content": "การเเข่งขันการเก็บลูกบอลของ Robot house keeper\r\n\r-House Keeper Robot Project (Midterm Project)\r\n\rจับกลุ่ม 6-7 คนประกอบหุ่นยนต์เก็บลูกบอลโดยใช้ความรู้ที่ได้เรียนมาทั้งหมดและต้องประกอบไปด้วย 3D printing,แผ่นอะคริลิกเพื่อทำที่เก็บลูกบอลและเขียนโปรแกรมการทำงานของหุ่นยนต์ด้วย micro:bit พร้อมทั้งใช้ AI ในการแยกสีหรือแยกวัตถุด้วยกล้อง Huskylens",
+    "picture1": "9.1.jpg",
+    "picture2": "9.2.jpg",
+    "picture3": ""
+  },
+  {
+    "weekNumber": "10",
+    "date": "2/11/2023",
+    "Topic": "Happy Coding",
+    "content": "- ได้รู้จักกับสิ่งที่เรียกว่า \"Arduino\" \n- ได้เรียนรู้ถึงความสำคัญและการทำงานของ Arduino\n- ได้รู้จักส่วนประกอบของบอร์ด Arduino\n- ทำความรู้จักกับการเขียนโค้ดคำสั่งสำหรับบอร์ด Arduino\n- ทดลองเขียนโค้ดเพื่อออกคำสั่งให้บอร์ด Arduino ทำภารกิจต่างๆ เช่น ทำให้หลอดไฟกระพริบตามความเข้มแสง, การสร้างโน้ตเพลงและการสร้างตัวอักษรเลื่อนบน digital screen",
+    "picture1": "10.1.jpg",
+    "picture2": "10.2.jpg"
+  },
+  {
+    "weekNumber": "11",
+    "date": "9/11/2023",
+    "Topic": "The Three Challenges",
+    "content": "- เป็นสัปดาห์ที่นำความรู้จากสัปดาห์ที่แล้วมาใช้ในการทำ Challenge\n- Challenge จะมีทั้งหมด 3 Challenge\n- Challenge ที่ 1 จะเป็นการให้ออกแบบเส้นทางในการเดินของหุ่นยนต์ให้หุ่นยนต์เดินตามทางจนเข้าเส้นชัย โดยระหว่างทางจะมีอุปสรรคต่างๆ เช่นเลี้ยวโค้ง เลี้ยวซ้ายเลี้ยวขวา\n- Challenge ที่ 2 จะเป็นการให้ทำหุ่นยนต์ Bumper เพื่อชนกับสิ่งของเพื่อเก็บคะแนน โดยจะมีสิ่งของทั้งหมด 8 ชิ้นต้องชนสิ่งของให้ได้ 5 ชิ้นภายในเวลา 3 นาที โดยสนามแข่งจะเป็นสนามแบบปิดมีกำแพงคอยกั้นต่างๆ\n- Challenge ที่ 3 จะเป็นการให้ทำหุ่นยนต์ที่ไล่ตามกำแพงไปเรื่อยๆ ตนถึงเส้นชัย โดนห้ามชนกำแพง ซึ่งระหว่างทางจะมีกำแพงหักไปหักมา",
+    "picture1": "11.1.jpg",
+    "picture2":"11.2.jpg"
+   
+  },
+  {
+    "weekNumber": "12",
+    "date": "16/11/2023",
+    "Topic": "Fundamental of Cyber Security/Threat",
+    "content": "-ได้รู้จักกับคำว่า \"Cyber security.\" ว่าหมายถึงอะไร \n-ได้เรียนรู้ว่า \"Cyber security\" ทำอะไร\n-รู้จักกับการโจรกรรมทาง Cyber แบบต่างๆ\n-ได้เรียนรู้วิธีป้องกันการโจรกรรมทาง Cyber\n-ได้รู้ว่ารหัสผ่านตนเองมีความปลอดภัยมากแค่ไหน\n-ได้ลองทำการ Hack Wepsite ครั้งแรกใน website \"Hackthissite.org\"",
+    "picture1" : "12.1.jpg",
+    "picture2" : "12.2.jpg"
+  },
+  {
+    "weekNumber": "13",
+    "date": "23/11/2023",
+    "Topic": "Writing, Reading and Presenting",
+    "content": "- เรียนรู้เกี่ยวกับการทำงานเป็นทีม\n- การทำสไลด์ให้น่าสนใจ\n- ให้ข้อเเนะนำในการนำเสนอข้อมูล และพรีเซนเทชั่น\n- สอน เเละทบทวนเกี่ยวกับการทำเเพลน เเล้วย้ำเตือนถึงความสำคัญของการวางเเผน",
+    "picture1": "13.1.jpg",
+    "picture2" :"13.2.jpg"
+  },
+  {
+    "weekNumber": "14",
+    "date": "30/11/2023",
+    "Topic": "Project Progress Presentation",
+    "content": "นำเสนอโปรเจคไฟนอล\n- โปรเจคกลุ่มเราเป็นโปรเจคเกี่ยวเว็บไซต์ที่เกี่ยวกับการรีวิวรถ\n- นำเสนอ actionplan planning idea เเละ prototype\n- ได้ข้อเสนอเเนะเพิ่มเติมจากอาจารย์ รวมถึงพี่ TA",
+    "picture1": "",
+    "picture2": "",
+    "picture3": ""
+  },
+  {
+    "weekNumber": "15",
+    "date": "4/12/2023",
+    "Topic": "Game Day",
+    "content": "จัดกิจกรรมเล่นเกมภายในภาควิชาโดยมีกิจกรรมเล่นเเกมหลากหลาย ไม่ว่าจะเป็น -การจัดเเข่งROV -graticphone -สลาฟ -uno -คำต้องเชื่อม -Putt party (Discord) -Poker night (Discord) -Chayen -gartic.io -Google Dino Run ",
+    "picture1": "15.1.jpg",
+    "picture2": "15.3.jpg",
+    "picture3":"15.5.jpg"
+  },
+  {
+    "weekNumber": "16",
+    "date": "15/12/2023",
+    "Topic": "Final Exam",
+    "content": "เป็นสัปดาห์ที่มีการสอบปลายภาค",
+    "picture1": "",
+    "picture2": "",
+    "picture3": ""
+  }
+]
